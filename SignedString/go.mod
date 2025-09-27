@@ -1,4 +1,4 @@
-module jwt-learn
+module jwt-exp
 
 go 1.24.5
 

@@ -1,6 +1,6 @@
 # SignedString
 
-通过 `SignedString` 创建 JWT
+通过 `SignedString` 创建 JWT 字符串
 
 运行结果：
 ```sh
